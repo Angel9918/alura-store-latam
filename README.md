@@ -10,7 +10,6 @@ Challenge 1 Alura Store Latam
 
 ## Índice de contenidos
 * [Challenge Store Latam](#Challenge-Store-Latam)
-* [Tencologías implementadas](#Tencologías-implementadas)
 
 ## Challenge Amigo Secreto
 
